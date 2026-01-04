@@ -9,8 +9,8 @@
 💼 Technology enthusiast, always looking to learn, build real applications and evolve as a developer.  
 💼 Entusiasta de tecnologia, sempre buscando aprender, construir aplicações reais e evoluir como desenvolvedor.
 
-Currently focused on backend development, authentication, clean architecture and scalable systems.  
-Atualmente focado em desenvolvimento backend, autenticação, clean architecture e sistemas escaláveis.
+Currently focused on full-stack development, with strong experience in backend, clean architecture and scalable systems.
+Atualmente focado em desenvolvimento full-stack, com forte atuação em backend, clean architecture e sistemas escaláveis.
 
 
 ---

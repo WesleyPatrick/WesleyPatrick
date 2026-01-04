@@ -12,7 +12,6 @@
 Currently focused on backend development, authentication, clean architecture and scalable systems.  
 Atualmente focado em desenvolvimento backend, autenticação, clean architecture e sistemas escaláveis.
 
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyPatrick&show_icons=true&theme=transparent)
 
 ---
 
